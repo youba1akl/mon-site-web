@@ -16,7 +16,7 @@ body{
     justify-content: center;
     align-items: center;
     position: relative;
-    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.5)), url(document/photo_2021-01-12_18-21-05.jpg)no-repeat center fixed;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.5)), url(photo_2021-01-12_18-21-05.jpg)no-repeat center fixed;
     background-size: cover;
 }
 .content{
